@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "firstname",
+        "lastname"
+    ],
+    "prettier.bracketSameLine": true,
+    "prettier.enableDebugLogs": true,
+    "prettier.insertPragma": true,
+    "prettier.requirePragma": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleAttributePerLine": true,
+    "prettier.withNodeModules": true
+}
